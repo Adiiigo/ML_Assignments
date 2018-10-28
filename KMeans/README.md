@@ -1,0 +1,6 @@
+- KMeans Algorithm is written in python3.6 language.
+- Algorithm is performed on iris dataset.
+- Gives the basic intorduction of how kmeans alogirthm works
+----------------
+- Currently, used labelled dataset.
+- This helps to see how well kmeans alogirhtm works.
