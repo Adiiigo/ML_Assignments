@@ -1,0 +1,7 @@
+- This code is written in java and it is using weka API
+- The dataset on which naive bayes algorithm is performed is attached and we are using arff file.
+--------------
+- Naive Bayes algorihm used bayes theorem.
+- Here, I have tried to split the dataset into training dataset and test dataset.
+- Perform evaluation metrics class-wise.
+- Along with it I have applied cross validation method which divides the dataset into 10 parts and apply naive bayes model.
